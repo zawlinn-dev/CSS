@@ -1,5 +1,5 @@
 div{
     max-width: 800px;
     background: #ddd;
-    height: 300px;
+    max-height: 80px;
 }
