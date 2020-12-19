@@ -1,0 +1,15 @@
+div{
+
+    width: 200px;
+    height: 200px;
+    border-width: 20px;
+    border-style: solid;   /* dash, dotted,
+                           double,groove,
+                           ridge, inset,
+                           outset, none; */
+    border-left-color: crimson;
+    border-right-color: darkgreen;
+    border-top-color: darkorange;
+    border-bottom-color: deeppink;
+    border-radius: 20px 30px 40px;
+}
